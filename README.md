@@ -35,4 +35,4 @@ denormalized_id | rule_desc
 4. Run the function: `select udf_normalize_timeframes();`;
  * Verify table is now normalized : `select * from tb_normalized_timeframe;`
 
-**Note**: This is basic code for time frame normalization, and just one of many transformation steps in an ETL data pipeline. It can be amended to make it more robust depending on the transformation steps on the table taken prior to executing the function.
+**Note**: This is basic code for time frame normalization, and just one of many transformation steps in an ETL data pipeline. It can be amended for more robustness depending on the transformation steps on the table taken prior to executing the function.
