@@ -8,7 +8,7 @@ For example, executing `udf_normalize_timeframes()` on table:
 
 denormalized_id | rule_desc
 ------------ | -------------
-`1` | `NO PARKING 02:00AM-03:00AM & 07:00AM-10:00AM & 11:00AM-01:00PM Monday 07:00AM-10:00AM & 09:30AM-12:00PM TUESDAY`
+`1` | `NO PARKING 02:00AM-03:00AM & 07:00AM-10:00AM & 11:00AM-01:00PM MONDAY 07:00AM-10:00AM & 09:30AM-12:00PM TUESDAY`
 
 returns:
 
