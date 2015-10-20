@@ -1,4 +1,4 @@
-# Normalizing-time-frames-in-PostgreSQL
+# Normalizing time frames in PostgreSQL
 
 ###Summary
 
