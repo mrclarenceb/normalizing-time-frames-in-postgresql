@@ -21,7 +21,7 @@ denormalized_id | rule_desc
 `1`|`NO PARKING 11:00AM-01:00PM MONDAY 07:00AM-10:00AM TUESDAY`
 `1`|`NO PARKING 11:00AM-01:00PM MONDAY 09:30AM-12:00PM TUESDAY`
 
-**Note**: There are 3 time frames before "MONDAY" and 2 before "TUESDAY" in the original table resulting in a 2x3 or 6-row time frame normalized table.
+**Note**: There are 3 time frames before "MONDAY" and 2 before "TUESDAY" in the original table resulting in a 2x3 or 6-row time-frame normalized table.
 
 ###Setup and Testing
 
